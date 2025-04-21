@@ -34,3 +34,5 @@ Import the SQL dump to your MySQL DB server:
 ```bash
 mysql -u <user_name> -p accounts < src/main/resources/db_backup.sql
 
+## Architecture
+
