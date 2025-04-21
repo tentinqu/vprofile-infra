@@ -2,7 +2,8 @@
 
 ## Architecture Overview
 
-![Architecture Diagram](INSERT-YOUR-DIAGRAM-HERE)
+Architecture Diagram![Screenshot 2025-04-21 121127](https://github.com/user-attachments/assets/306f0b68-93e2-487a-a9ed-d026a6e00e78)
+
 
 ## Prerequisites
 - **Java JDK**: 17 or 21
