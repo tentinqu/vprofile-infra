@@ -158,7 +158,7 @@ Internet → ELB → App Server (Tomcat) → Backend Services (MySQL, RabbitMQ, 
 All communication secured via specific SG rules and DNS records for IP independence.
 
 ## PSA 
-This repository focuses on the infrastructure of the vprofile project. For the original code, features, and full details of the website, please check out the official repository here: [vprofile-project](https://github.com/hkhcoder/vprofile-project/tree).
+This repository focuses on the infrastructure of the vprofile project. For the original code, features, and full details of the website, please check out the official repository here: [[vprofile-project](https://github.com/hkhcoder/vprofile-project/tree).](https://github.com/hkhcoder/vprofile-project/tree/awsliftandshift)
 
 To-do: 
 upload screenshots
